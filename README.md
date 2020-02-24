@@ -14,3 +14,6 @@ pelican content -o output -s pelicanconf.py -c www.flowious.com
 ghp-import output -r origin -b master
 git push origin master
 ```
+
+## References
+https://rasor.github.io/using-pelican-blog-on-github-pages.html

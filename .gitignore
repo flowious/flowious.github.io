@@ -1,0 +1,9 @@
+*~
+._*
+*.lock
+*.DS_Store
+*.swp
+*.out
+__pycache__/
+*.py[cod]
+output

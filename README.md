@@ -10,8 +10,8 @@ Browse to http://localhost:8000
 
 ## Publish
 ```
-pelican content -o output -s pelicanconf.py -c www.flowious.com
-ghp-import output -r origin -b master
+pelican content -o output -s pelicanconf.py
+ghp-import output -r origin -b master -c www.flowious.com
 git push origin master
 ```
 

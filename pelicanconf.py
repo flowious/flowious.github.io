@@ -33,3 +33,7 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# Bryce add
+THEME = "/Users/caine/pelican-themes/clean-blog"
+HEADER_COVER = "images/header_cover.jpg"

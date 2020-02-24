@@ -1,8 +1,8 @@
-Title: some longer title
-slug: some-slug
-Date: 2016-11-19
-Category: code
-Tags: data
+Title: Welcome
+slug: initial-commit
+Date: 2020-02-24
+Category: announcement
+Tags: new
 Authors: Bryce Caine
 
-hi and hola
+Flowious is coming soon.
